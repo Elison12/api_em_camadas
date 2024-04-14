@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UUhrL9reTWSBO7dHy2bxSEWrLfFvSOfnT1Yvw940uanVrWIG3Lw6IMxDYj745VFncH9nQgI+AuN0wwD+CXAt5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\epass\\OneDrive\\Documentos\\arquivos\\dotnet cursos projetos\\apiRobusta\\Manager.sln\\src\\Manager.Domain\\Manager.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\epass\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
