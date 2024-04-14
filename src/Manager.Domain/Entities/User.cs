@@ -4,9 +4,9 @@ namespace Manager.Domain.Entities
 {
     public class User : Base
     {
-        public String Name { get; private set; }
-        public String Email { get; private set; }
-        public String Password { get; private set; }
+        public string Name { get; private set; }
+        public string Email { get; private set; }
+        public string Password { get; private set; }
 
         //EF
         protected User() { }
@@ -16,7 +16,7 @@ namespace Manager.Domain.Entities
             Name = name;
             Email = email;
             Password = password;
-            _errors = new List<String>();
+            _errors = new List<string>();
         }
 
         public void ChangeName(string name)
@@ -50,7 +50,7 @@ namespace Manager.Domain.Entities
 
                 }
             }
-            throw new Exception();
+            throw new Exception("Alguns campos estão invalidos." + _errors[0]);
         }
     }
 

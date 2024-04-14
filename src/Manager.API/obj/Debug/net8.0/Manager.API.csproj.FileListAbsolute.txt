@@ -31,3 +31,4 @@ C:\Users\epass\OneDrive\Documentos\arquivos\dotnet cursos projetos\apiRobusta\Ma
 C:\Users\epass\OneDrive\Documentos\arquivos\dotnet cursos projetos\apiRobusta\Manager.sln\src\Manager.API\obj\Debug\net8.0\Manager.API.pdb
 C:\Users\epass\OneDrive\Documentos\arquivos\dotnet cursos projetos\apiRobusta\Manager.sln\src\Manager.API\obj\Debug\net8.0\Manager.API.genruntimeconfig.cache
 C:\Users\epass\OneDrive\Documentos\arquivos\dotnet cursos projetos\apiRobusta\Manager.sln\src\Manager.API\obj\Debug\net8.0\ref\Manager.API.dll
+C:\Users\epass\OneDrive\Documentos\arquivos\dotnet cursos projetos\apiRobusta\Manager.sln\src\Manager.API\obj\Debug\net8.0\Manager.API.sourcelink.json
