@@ -10,6 +10,10 @@ namespace Manager.Infra.Context
 
         public ManagerContext(DbContextOptions<ManagerContext> options) : base(options) { }
 
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsbuilder) {
+            optionsbuilder.UseSqlServer(@"Server=myServerAddress;Database=myDataBase;User Id=myUsername;Password=myPassword;");
+        }
+
         public virtual DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)

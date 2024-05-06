@@ -1,0 +1,12 @@
+C:\Users\epass\OneDrive\Documentos\arquivos\dotnet cursos projetos\apiRobusta\Manager.sln\src\Manager.Core\bin\Debug\net8.0\Manager.Core.deps.json
+C:\Users\epass\OneDrive\Documentos\arquivos\dotnet cursos projetos\apiRobusta\Manager.sln\src\Manager.Core\bin\Debug\net8.0\Manager.Core.dll
+C:\Users\epass\OneDrive\Documentos\arquivos\dotnet cursos projetos\apiRobusta\Manager.sln\src\Manager.Core\bin\Debug\net8.0\Manager.Core.pdb
+C:\Users\epass\OneDrive\Documentos\arquivos\dotnet cursos projetos\apiRobusta\Manager.sln\src\Manager.Core\obj\Debug\net8.0\Manager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\epass\OneDrive\Documentos\arquivos\dotnet cursos projetos\apiRobusta\Manager.sln\src\Manager.Core\obj\Debug\net8.0\Manager.Core.AssemblyInfoInputs.cache
+C:\Users\epass\OneDrive\Documentos\arquivos\dotnet cursos projetos\apiRobusta\Manager.sln\src\Manager.Core\obj\Debug\net8.0\Manager.Core.AssemblyInfo.cs
+C:\Users\epass\OneDrive\Documentos\arquivos\dotnet cursos projetos\apiRobusta\Manager.sln\src\Manager.Core\obj\Debug\net8.0\Manager.Core.csproj.CoreCompileInputs.cache
+C:\Users\epass\OneDrive\Documentos\arquivos\dotnet cursos projetos\apiRobusta\Manager.sln\src\Manager.Core\obj\Debug\net8.0\Manager.Core.sourcelink.json
+C:\Users\epass\OneDrive\Documentos\arquivos\dotnet cursos projetos\apiRobusta\Manager.sln\src\Manager.Core\obj\Debug\net8.0\Manager.Core.dll
+C:\Users\epass\OneDrive\Documentos\arquivos\dotnet cursos projetos\apiRobusta\Manager.sln\src\Manager.Core\obj\Debug\net8.0\refint\Manager.Core.dll
+C:\Users\epass\OneDrive\Documentos\arquivos\dotnet cursos projetos\apiRobusta\Manager.sln\src\Manager.Core\obj\Debug\net8.0\Manager.Core.pdb
+C:\Users\epass\OneDrive\Documentos\arquivos\dotnet cursos projetos\apiRobusta\Manager.sln\src\Manager.Core\obj\Debug\net8.0\ref\Manager.Core.dll

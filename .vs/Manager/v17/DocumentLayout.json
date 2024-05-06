@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\epass\\OneDrive\\Documentos\\arquivos\\dotnet cursos projetos\\apiRobusta\\Manager.sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE13220-D792-4182-A99C-45B2C228004C}|src\\Manager.Domain\\Manager.Domain.csproj|c:\\users\\epass\\onedrive\\documentos\\arquivos\\dotnet cursos projetos\\apirobusta\\manager.sln\\src\\manager.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE13220-D792-4182-A99C-45B2C228004C}|src\\Manager.Domain\\Manager.Domain.csproj|solutionrelative:src\\manager.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86293C2A-1324-42A7-B5FD-F1A8C1956C58}|src\\Manager.Services\\Manager.Services.csproj|c:\\users\\epass\\onedrive\\documentos\\arquivos\\dotnet cursos projetos\\apirobusta\\manager.sln\\src\\manager.services\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86293C2A-1324-42A7-B5FD-F1A8C1956C58}|src\\Manager.Services\\Manager.Services.csproj|solutionrelative:src\\manager.services\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86293C2A-1324-42A7-B5FD-F1A8C1956C58}|src\\Manager.Services\\Manager.Services.csproj|c:\\users\\epass\\onedrive\\documentos\\arquivos\\dotnet cursos projetos\\apirobusta\\manager.sln\\src\\manager.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86293C2A-1324-42A7-B5FD-F1A8C1956C58}|src\\Manager.Services\\Manager.Services.csproj|solutionrelative:src\\manager.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7166A57D-64FD-439D-B56D-296927312FA7}|src\\Manager.Infra\\Manager.Infra.csproj|c:\\users\\epass\\onedrive\\documentos\\arquivos\\dotnet cursos projetos\\apirobusta\\manager.sln\\src\\manager.infra\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7166A57D-64FD-439D-B56D-296927312FA7}|src\\Manager.Infra\\Manager.Infra.csproj|solutionrelative:src\\manager.infra\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7166A57D-64FD-439D-B56D-296927312FA7}|src\\Manager.Infra\\Manager.Infra.csproj|c:\\users\\epass\\onedrive\\documentos\\arquivos\\dotnet cursos projetos\\apirobusta\\manager.sln\\src\\manager.infra\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7166A57D-64FD-439D-B56D-296927312FA7}|src\\Manager.Infra\\Manager.Infra.csproj|solutionrelative:src\\manager.infra\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7166A57D-64FD-439D-B56D-296927312FA7}|src\\Manager.Infra\\Manager.Infra.csproj|c:\\users\\epass\\onedrive\\documentos\\arquivos\\dotnet cursos projetos\\apirobusta\\manager.sln\\src\\manager.infra\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7166A57D-64FD-439D-B56D-296927312FA7}|src\\Manager.Infra\\Manager.Infra.csproj|solutionrelative:src\\manager.infra\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86293C2A-1324-42A7-B5FD-F1A8C1956C58}|src\\Manager.Services\\Manager.Services.csproj|c:\\users\\epass\\onedrive\\documentos\\arquivos\\dotnet cursos projetos\\apirobusta\\manager.sln\\src\\manager.services\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86293C2A-1324-42A7-B5FD-F1A8C1956C58}|src\\Manager.Services\\Manager.Services.csproj|solutionrelative:src\\manager.services\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\epass\\OneDrive\\Documentos\\arquivos\\dotnet cursos projetos\\apiRobusta\\Manager.sln\\src\\Manager.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\Manager.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\epass\\OneDrive\\Documentos\\arquivos\\dotnet cursos projetos\\apiRobusta\\Manager.sln\\src\\Manager.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "src\\Manager.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:08:46.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\epass\\OneDrive\\Documentos\\arquivos\\dotnet cursos projetos\\apiRobusta\\Manager.sln\\src\\Manager.Infra\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "src\\Manager.Infra\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\epass\\OneDrive\\Documentos\\arquivos\\dotnet cursos projetos\\apiRobusta\\Manager.sln\\src\\Manager.Infra\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "src\\Manager.Infra\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAApwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:57:55.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\epass\\OneDrive\\Documentos\\arquivos\\dotnet cursos projetos\\apiRobusta\\Manager.sln\\src\\Manager.Infra\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\Manager.Infra\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\epass\\OneDrive\\Documentos\\arquivos\\dotnet cursos projetos\\apiRobusta\\Manager.sln\\src\\Manager.Infra\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "src\\Manager.Infra\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:57:17.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserMap.cs",
+              "DocumentMoniker": "C:\\Users\\epass\\OneDrive\\Documentos\\arquivos\\dotnet cursos projetos\\apiRobusta\\Manager.sln\\src\\Manager.Infra\\Mappings\\UserMap.cs",
+              "RelativeDocumentMoniker": "src\\Manager.Infra\\Mappings\\UserMap.cs",
+              "ToolTip": "C:\\Users\\epass\\OneDrive\\Documentos\\arquivos\\dotnet cursos projetos\\apiRobusta\\Manager.sln\\src\\Manager.Infra\\Mappings\\UserMap.cs",
+              "RelativeToolTip": "src\\Manager.Infra\\Mappings\\UserMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:56:58.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\epass\\OneDrive\\Documentos\\arquivos\\dotnet cursos projetos\\apiRobusta\\Manager.sln\\src\\Manager.Services\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "src\\Manager.Services\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\epass\\OneDrive\\Documentos\\arquivos\\dotnet cursos projetos\\apiRobusta\\Manager.sln\\src\\Manager.Services\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "src\\Manager.Services\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:55:29.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\epass\\OneDrive\\Documentos\\arquivos\\dotnet cursos projetos\\apiRobusta\\Manager.sln\\src\\Manager.Services\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "src\\Manager.Services\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\epass\\OneDrive\\Documentos\\arquivos\\dotnet cursos projetos\\apiRobusta\\Manager.sln\\src\\Manager.Services\\Services\\UserServices.cs",
+              "RelativeToolTip": "src\\Manager.Services\\Services\\UserServices.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwC0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:52:05.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\epass\\OneDrive\\Documentos\\arquivos\\dotnet cursos projetos\\apiRobusta\\Manager.sln\\src\\Manager.Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "src\\Manager.Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\epass\\OneDrive\\Documentos\\arquivos\\dotnet cursos projetos\\apiRobusta\\Manager.sln\\src\\Manager.Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "src\\Manager.Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:07:51.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
